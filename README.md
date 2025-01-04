@@ -1,4 +1,4 @@
-<h1>JWipe - Hello World Lab Lab</h1>
+<h1>JBloom - Hello World Lab Lab</h1>
 
 <h2>Description</h2>
 In this project we will create the obligitory "hello world" code using python.
