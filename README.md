@@ -44,14 +44,6 @@ In this project we will create the obligitory "hello world" code using python.
 
 <b>That wraps up the project! Hopefully you have enjoyed it! </b>
 
-
-
-
-
-
-
-
-
 </p>
 
 <!--
