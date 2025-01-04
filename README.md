@@ -21,28 +21,28 @@ In this project we will create the obligitory "hello world" code using python.
  <b>We need to start a fresh file to write our code in. After opening VS code you should see an option to create a new file as seen in the picture below. Click that button and select "python file" from the options if it is listed. If it is not losted you can always add the .py extension to the file later. </b>
 
   
- ![NetPlan](netplan-configuration.JPG)
+ ![NewFile](NewFilePic.JPG)
 
 
  <h2>Creating A Comment</h2>
  <b>Comments are commonly used to give additional informtaion to people who are not the original author when debugging code. We will just add a sinple introduction here. To make a comment in python all you need to do is put a hashtag at the beginning of a line and then type out your comment. Belo is a picture of my comment.<b/>
 
- ![OrgUnits](orginizationalunits.JPG)
+ ![Comment](comment.JPG)
 
   <h2>The Print Function()</h2>
   <b> To make the terminal display what we want it to we can use the print() function. anything you want to be displayed in the terminal you sinply type inside of the parentheses but do not forget the quotation marks or your script will not run. In this case we will type print("Hello World"). </b>
 
-   ![Passwords](BruteForcePasswords.JPG)
+   ![Code](HelloWorldCode.JPG)
 
 <h2>Run The Code</h2>
 
 <b>At this point the code is ready to run. All you need to do is save the file and click the run button. If done correctly the terminal will display the correct message. Below is a picture of my terminal after running the code. you can see it printed in the middle line.</b>
 
-![User-Tsmith](workstation-kali.JPG)
+![TerminalResult](Result.JPG)
 
 <h2>Conclusion</h2>
 
-<b>That wraps up the project! Hopefully you have enjoyed it! and again I'd like to give a special thanks to MyDFIR for providing an excellent guide!</b>
+<b>That wraps up the project! Hopefully you have enjoyed it! </b>
 
 
 
